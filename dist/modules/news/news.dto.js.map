@@ -1,0 +1,1 @@
+{"version":3,"file":"news.dto.js","sourceRoot":"","sources":["../../../src/modules/news/news.dto.ts"],"names":[],"mappings":";;;AAEA,wCAAwC;AAC7B,QAAA,MAAM,GAAG;IAChB,EAAE,EAAE,EAAE,GAAG,EAAE,KAAK,EAAE,QAAQ,EAAE,IAAI,EAAE,WAAW,EAAE,SAAS,EAAE,cAAc,EAAE;IAC1E,EAAE,EAAE,EAAE,GAAG,EAAE,KAAK,EAAE,QAAQ,EAAE,IAAI,EAAE,WAAW,EAAE,SAAS,EAAE,cAAc,EAAE;CAC3E,CAAA"}
